@@ -28,8 +28,8 @@ Frontend engineer focused on modern web frameworks (React / Vue / Next.js) and t
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaishuige&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaishuige&layout=compact&theme=default&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-5wuz.vercel.app/api?username=kaishuige&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-5wuz.vercel.app/api/top-langs/?username=kaishuige&layout=compact&theme=default&langs_count=8" />
 </div>
 
 <div align="center">
